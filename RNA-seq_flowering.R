@@ -1,8 +1,9 @@
-# Purpose: Identify potential genes that are responsible for a flowering trait 
-#          through Differential Gene Expression (DGE) analysis by given a pair-ended 
-#          RNA-Seq expresion data using the edgeR, limma, Glimma, etc. 
-# Author: Mohammad Najaf-panah
-# Date: October 2019
+## Purpose: Identify potential genes that are responsible for a flowering trait 
+##          through Differential Gene Expression (DGE) analysis by given a pair-ended 
+##          RNA-Seq expresion data using the edgeR, limma, Glimma, etc. 
+## Author: Mohammad Najaf-panah
+## Date: October 2019
+## Modified: Dec 11, 2019
 
 # Loading required packages
 library(edgeR)
