@@ -1,4 +1,3 @@
-#### Ball Helix Bioinformatics Scientist Assignmet ###
 # Purpose: Identify potential genes that are responsible for a flowering trait 
 #          through Differential Gene Expression (DGE) analysis by given a pair-ended 
 #          RNA-Seq expresion data using the edgeR, limma, Glimma, etc. 
